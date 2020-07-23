@@ -1,0 +1,21 @@
+.cover {
+    width: 70px;
+}
+
+.table>tbody>tr>* {
+    vertical-align: middle;
+}
+
+/* Style in About */
+#grad1 {
+    /* For browsers that do not support gradients */
+    background-image: linear-gradient(-90deg, #a1ffce, #faffd1);
+}
+
+.h2_custom {
+    text-shadow: 0 0 3px #d3ffc8, 0 0 5px #0000FF;
+}
+
+.h3_custom {
+    text-shadow: 2px 2px 5px #00ff85;
+}
